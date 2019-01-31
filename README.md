@@ -1,4 +1,4 @@
-# How-bind-a-Command-of-Button-inside-the-ItemTemplate-of-Xamarin.Forms-ListView-to-ViewModel-Command## Binding command of Button inside the ItemTemplate of Xamarin.Forms ListView to ViewModel Command?
+# How-bind-a-Command-of-Button-inside-the-ItemTemplate-of-Xamarin.Forms-ListView-to-ViewModel-Command 
 
 You can bind command of Button inside ItemTemplate to the command in ViewModel by specifying Source property with its root element as reference to execute the bindeed property of type command.
 
